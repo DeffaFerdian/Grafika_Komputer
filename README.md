@@ -4,7 +4,7 @@ Berikut merupakan Source Code Tugas Rancang Grafika Komputer Secara Tim. dibuat 
 Panca Rizki Perkasa (672019023)                                                                                                                              
 Deffa Ferdian Alif Utama (672019163)
 
-menggunakan Bahasa Pemrograman C++ dan Software Codeblock dengan OpenGL.
+menggunakan Bahasa Pemrograman C++. untuk Tool Codeblock dengan OpenGL.
 dalam Tugas Rancang ini, Kami membuat 2 Bangunan Ciri Khas dari masing masing Universitas, diantaranya 
 1. Gedung Administrasi Pusat UKSW, untuk Dosen
 2. Gedung Ciri Khas ITB, untuk Asisten Dosen
