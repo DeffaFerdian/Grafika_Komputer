@@ -10,6 +10,6 @@ dalam Tugas Rancang ini, Kami membuat 2 Bangunan Ciri Khas dari masing masing Un
 2. Gedung Ciri Khas ITB, untuk Asisten Dosen
 
 ini Merupakan Tugas Akhir berupa Tugas Rancang untuk Dosen dan Asisten Dosen dari Mata Kuliah Grafika Komputer.
-Source Code Kami berikan bertujuan untuk dapat belajar bersama.
+Source Code ini Kami berikan bertujuan untuk dapat belajar bersama.
 
 Selamat Belajar
