@@ -1,7 +1,7 @@
 # Grafika_Komputer
 Berikut merupakan Source Code Tugas Rancang Grafika Komputer Secara Tim. dibuat oleh 
 
-Panca Rizki Perkasa (672019023)
+Panca Rizki Perkasa (672019023)                                                                                                                              
 Deffa Ferdian Alif Utama (672019163)
 
 menggunakan Bahasa Pemrograman C++ dan Software Codeblock dengan OpenGL.
